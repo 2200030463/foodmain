@@ -1,42 +1,12 @@
-# Voyawander Hotel Booking Website
+# Food Booking Website
 
-Welcome to the Voyawander Hotel Booking Website project! This open-source project aims to provide a simple and user-friendly platform for booking hotels online. Whether you're a developer looking to contribute or a user looking to book a hotel, this README will guide you through the project and its features.
+Welcome to the Food Booking Website project! this README will guide you through the project and its features.
 
-## Project Preview
 
-### Sign up / Log in
 
-![Sign Up Page](https://github.com/monurajputrko/Voyawander/blob/main/images/signup.png)
 
-- Sign up if you are visiting the site for the first time.
 
-![Login Page](https://github.com/monurajputrko/Voyawander/blob/main/images/login.png)
 
-- Login if you already signed up.
-
-### Home
-
-![Home](https://github.com/monurajputrko/Voyawander/blob/Hotels/images/homepage.png)
-
-- 'Home' page is the landing page of the website.
-
-### Hotels
-
-![Hotels](https://github.com/monurajputrko/Voyawander/blob/main/images/hotels.png)
-
-- 'Hotels' page contains list of all hotels. The user can search and sort the hotels based on location, price, name and ratings.
-
-### Hotel Description
-
-![Hotels Description](https://github.com/monurajputrko/Voyawander/blob/main/images/single.png)
-
-- 'Hotel Description' page contains additional information about the hotel like pricing, aminities, reviews, highlights, etc,.
-
-### Checkout
-
-![Checkout](https://github.com/monurajputrko/Voyawander/blob/main/images/checkout.png)
-
-- 'Checkout' page will allow the user to pay for the hotel room using different payment methods.
 
 ## Deployed Link (Netlify) :
 
@@ -111,10 +81,10 @@ Before you begin, make sure you have the following installed:
 
 ### User Guide
 
-1. To use the Hotel Booking Website as a user:
+1. To use the food Booking Website as a user:
 2. Open your web browser and navigate to http://localhost:3000 to access the website.
 3. Sign up for an account or log in if you already have one.
-4. Search for hotels, choose your dates, and make bookings.
+4. Search for food, choose your food, and make bookings.
 
 ### Developer Guide
 
@@ -122,11 +92,8 @@ If you're a developer looking to contribute or customize the project, refer to t
 
 ## Credits
 
-1. [Nishal Barman](https://github.com/nishalbarman)
-2. [Monu Singh](https://github.com/monurajputrko)
-3. [Gaurav Sharma](https://github.com/gauravvxv)
-4. [Md Dilnawaz Alam](https://github.com/dilsah786)
-5. [Vamsi Shetty](https://github.com/Vamsi-Shetty)
+1. [SRIRAM ](https://github.com/2200030463)
+
 
 ## Contributing
 
